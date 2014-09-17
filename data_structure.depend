@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1410866726 source:e:\workspace\data_structure\main.c
+	"data_structure.h"
+
+1410839838 cture.h"
+
+1410509945 e:\workspace\data_structure\data_structure.h
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	"binarytree.h"
+	"utils.h"
+
+1410686332 
+
+1410495302 source:e:\workspace\data_structure\dlist.c
+	"data_structure.h"
+
+1410839838 source:e:\workspace\data_structure\utils.c
+	"data_structure.h"
+
+1410449430 source:e:\workspace\data_structure\test.c
+
+1410842215 e:\workspace\data_structure\binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1410882719 source:e:\workspace\data_structure\binarytree.c
+	"data_structure.h"
+	"utils.h"
+
+1410686332 e:\workspace\data_structure\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<memory.h>
+
+1410495304 source:/home/speedmax/code/data_structure/dlist.c
+	"data_structure.h"
+
+1410937081 /home/speedmax/code/data_structure/data_structure.h
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<string.h>
+	<fcntl.h>
+	"binarytree.h"
+	"utils.h"
+
+1410842216 /home/speedmax/code/data_structure/binarytree.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+
+1410938432 /home/speedmax/code/data_structure/utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<math.h>
+	<time.h>
+	<memory.h>
+
+1410938069 source:/home/speedmax/code/data_structure/main.c
+	"data_structure.h"
+
+1410449432 source:/home/speedmax/code/data_structure/test.c
+
+1410839840 source:/home/speedmax/code/data_structure/utils.c
+	"data_structure.h"
+
+1410938138 source:/home/speedmax/code/data_structure/binarytree.c
+	"data_structure.h"
+	"utils.h"
+

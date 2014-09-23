@@ -1,1 +1,1 @@
-# some experimental code for data structure and algrithm
+some experimental code for data structure and algrithm
